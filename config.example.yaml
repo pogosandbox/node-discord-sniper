@@ -1,0 +1,20 @@
+
+discord:
+    token: 
+
+pokemongo:
+    user: 
+    password: 
+    deviceId: 
+    hashKey: 
+    initialPosition:
+        latitude: 48.8483
+        longitude: 2.28463
+
+# filters:
+#     users:
+#         - 
+#     channels:
+#         - 
+
+proxy: http://server:port

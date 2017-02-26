@@ -1,0 +1,7 @@
+.env
+.npm
+node_modules
+.publish
+
+*.log
+config.yaml
